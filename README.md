@@ -88,8 +88,7 @@ Java + Hibernate ORM. Manages customers, accounts, and transactions with robust 
 
 ### **Portfolio Website**
 Interactive, responsive portfolio with colorful background and clean sections (skills, projects, certifications, resume, contact).  
-**Live:** https://pranav045.github.io/pranav045/  
-**Repo:** (add your repo link here if different)
+**Live:** https://pranav045.github.io/pranav045/ 
 
 </td>
 </tr>
