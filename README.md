@@ -88,7 +88,7 @@ Java + Hibernate ORM. Manages customers, accounts, and transactions with robust 
 
 ### **Portfolio Website**
 Interactive, responsive portfolio with colorful background and clean sections (skills, projects, certifications, resume, contact).  
-**Live:** https://pranav045.github.io/pranav045/ 
+**Live:** [https://pranavgaira-portfolio.netlify.app/]
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Interactive, responsive portfolio with colorful background and clean sections (s
 <a href="https://www.linkedin.com/in/pranav-gaira/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pranavgaira@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/pranav045"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://pranav045.github.io/pranav045/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="[https://pranavgaira-portfolio.netlify.app/]"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 </div>
 
