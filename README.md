@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pranavgaira@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/LbYhn5KBPF/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pranav4u4g)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://pranav045.github.io/pranav045/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)]((https://pranavgaira-portfolio.netlify.app/))
 
 </div>
 
