@@ -32,7 +32,6 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav045&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_color=00D4FF&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav045&theme=react&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&hide_border=true" />
-
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav045&layout=compact&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&hide_border=true&langs_count=8" />
 
 </div>
@@ -44,6 +43,11 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 
 ![GitHub Snake Dark](https://github.com/pranav045/pranav045/blob/7aac3333fd24b85defe86e02ac7fbb63331e2e56/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](https://github.com/pranav045/pranav045/blob/7aac3333fd24b85defe86e02ac7fbb63331e2e56/github-snake-light.svg#gh-light-mode-only)
+
+---
+## **📊 Activity Graph**
+
+![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav045&theme=react-dark&hide_border=true)
 
 ---
 
@@ -136,3 +140,5 @@ Interactive, responsive portfolio with colorful background and clean sections (s
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav045&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav045&layout=compact&theme=radical)
