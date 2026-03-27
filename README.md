@@ -140,3 +140,9 @@ Interactive, responsive portfolio with colorful background and clean sections (s
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
+
+
+---
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
