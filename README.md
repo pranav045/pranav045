@@ -38,14 +38,14 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 
 ---
 
-## 🐍 Contribution Snake
+## **Contribution Snake**
 
 
 ![GitHub Snake Dark](https://github.com/pranav045/pranav045/blob/7aac3333fd24b85defe86e02ac7fbb63331e2e56/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](https://github.com/pranav045/pranav045/blob/7aac3333fd24b85defe86e02ac7fbb63331e2e56/github-snake-light.svg#gh-light-mode-only)
 
 ---
-## **📊 Activity Graph**
+## **Activity Graph**
 
 ![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav045&theme=react-dark&hide_border=true)
 
