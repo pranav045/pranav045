@@ -140,5 +140,3 @@ Interactive, responsive portfolio with colorful background and clean sections (s
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav045&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav045&layout=compact&theme=radical)
