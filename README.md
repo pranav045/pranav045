@@ -42,7 +42,8 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 ## 🐍 Contribution Snake
 
 
-![snake gif](https://github.com/pranav045/pranav045/blob/95f2dfe94d784f9eee2b9a48bbe5d45abf6d4412/github-snake-dark.svg)
+![GitHub Snake Dark](https://github.com/pranav045/pranav045/blob/7aac3333fd24b85defe86e02ac7fbb63331e2e56/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/pranav045/pranav045/blob/7aac3333fd24b85defe86e02ac7fbb63331e2e56/github-snake-light.svg#gh-light-mode-only)
 
 ---
 
