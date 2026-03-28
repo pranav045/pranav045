@@ -138,11 +138,13 @@ Interactive, responsive portfolio with colorful background and clean sections (s
 <a href="https://pranavgaira-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 </div>
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
 
 
----
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
