@@ -57,11 +57,6 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 
 </div>
 
-**Languages:** C++, Java, JavaScript, Kotlin, TypeScript, SQL  
-**Frontend:** HTML, CSS, Tailwind, React.js  
-**Backend:** Node.js, Express.js, Spring, Spring Boot  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Tools/Tech:** AWS, Android Studio  
 
 ---
 
