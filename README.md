@@ -50,7 +50,7 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 ## **TECH STACK**
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,postgres,aws,git,github,html,css,tailwind&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,postgres,aws,git,github,html,css,tailwind,sprinboot&theme=dark&perline=8" />
 
 </div>
 
