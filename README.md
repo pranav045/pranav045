@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Pranav%20Gaira&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Project%20Builder&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Pranav%20Gaira&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Android%20App%20Developer%20%7C%20Project%20Builder&descAlignY=55&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+reliable%2C+user-focused+products;Full+Stack+Developer+%7C+Java+%7C+MERN+%7C+Android+Developer)](https://git.io/typing-svg)
 
