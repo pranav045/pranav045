@@ -43,7 +43,8 @@ Full‑stack developer focused on building clean, maintainable applications. I e
 ---
 ## **Activity Graph**
 
-![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav045&theme=react-dark&hide_border=true)
+![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav045&theme=react-dark&hide_border=true&area=true)
+
 
 ---
 
